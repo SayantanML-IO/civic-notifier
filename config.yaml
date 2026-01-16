@@ -1,0 +1,31 @@
+sites_to_monitor:
+  - name: "Press Information Bureau (All Ministries)"
+    url: "https://pib.gov.in/AllRelease.aspx"
+  - name: "eGazette of India (Notifications)"
+    url: "https://egazette.gov.in/"
+  - name: "West Bengal Health Dept (Recruitment)"
+    url: "https://www.wbhealth.gov.in/pages/career"
+
+keywords:
+  - "infrastructure"
+  - "pollution"
+  - "recruitment"
+  - "tender"
+  - "metro"
+  - "public health"
+  - "urban development"
+  - "sanitation"
+  - "policy"
+  - "notification"
+  - "Kolkata" 
+  - "KMC"     
+  - "বিজ্ঞপ্তি" 
+
+notifications:
+  send_email: True
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  sender_email: "SENDER_EMAIL"
+  sender_password: "EMAIL_PASSWORD"
+  receiver_email: "RECEIVER_EMAIL"
+  
