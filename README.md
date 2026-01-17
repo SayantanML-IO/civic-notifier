@@ -19,7 +19,7 @@ A Python automation tool that monitors government websites for new notifications
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/civic-notifier.git](https://github.com/YOUR_USERNAME/civic-notifier.git)
+    git clone [https://github.com/SayantanDe04/civic-notifier.git](https://github.com/SayantanDe04/civic-notifier.git)
     cd civic-notifier
     ```
 
